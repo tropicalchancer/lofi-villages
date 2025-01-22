@@ -13,7 +13,7 @@ export default function Page() {
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold mb-4 text-[#2D2D2D]">lofi villages</h1>
           <p className="text-lg text-[#666] mb-8">
-          an accidental little civilization forms here and there, then vanishes like a cosmic wink
+            an accidental little civilization forms here and there, then vanishes like a cosmic wink
           </p>
           <CreatePopupButton />
         </div>
@@ -48,4 +48,3 @@ export default function Page() {
     </main>
   )
 }
-
